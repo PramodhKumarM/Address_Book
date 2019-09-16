@@ -505,7 +505,7 @@
    <repository>
      <id>github</id>
      <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/PramodhKumarM/DevOpsClassCodes</url>
+     <url>https://maven.pkg.github.com/PramodhKumarM/Address_Book</url>
    </repository>
 </distributionManagement>
 
