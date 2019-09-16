@@ -17,4 +17,4 @@ jobs:
       run: mvn package --file pom.xml
       
     - name: Deploy
-      run: mvn deploy -Dregistry=https://maven.pkg.github.com/PramodhKumarM -Dtoken=bf4a038ca4b43f6c61b7fd4db19433787d421b0b
+      run: mvn deploy -Dregistry=https://maven.pkg.github.com/PramodhKumarM -Dtoken=ed5a94e7234e7c37a09834a98629aa0db18e6288
